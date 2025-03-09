@@ -1,14 +1,3 @@
-# Animated-Login-Registration-Page
-
-Live Link --> https://wonderful-tiramisu-e3be14.netlify.app/
-
-# Screenshots
-
-![image](https://github.com/user-attachments/assets/9765b607-7a02-4e2a-8d8f-f1562819a034)
-
-![image](https://github.com/user-attachments/assets/042a9e61-289a-49cc-8187-88d0c299b56d)
-
-
 # Animated Login and Registration Page
 
 This project is a responsive and animated login and registration page built using HTML, CSS, and JavaScript. The page features smooth transitions between the login and sign-up forms, along with social media login options.
@@ -22,13 +11,13 @@ This project is a responsive and animated login and registration page built usin
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://mellow-genie-3768ff.netlify.app).
+Check out the live demo of the project [here](https://wonderful-tiramisu-e3be14.netlify.app/).
 
-## Screenshots
+## Screenshots: 
 
-![Screenshot 1](https://github.com/atharvabhairam/Animated-Login-Registration-Page/assets/67710001/182ce7d4-e16f-4d85-a3cf-90ad12877b62)
-![Screenshot 2](https://github.com/atharvabhairam/Animated-Login-Registration-Page/assets/67710001/49c1ccc1-2fde-4863-af07-7b8f5626587a)
-![Screenshot 3](https://github.com/atharvabhairam/Animated-Login-Registration-Page/assets/67710001/285094b3-f858-40a9-b45c-a6e6f392e93a)
+![image](https://github.com/user-attachments/assets/9765b607-7a02-4e2a-8d8f-f1562819a034)
+
+![image](https://github.com/user-attachments/assets/042a9e61-289a-49cc-8187-88d0c299b56d)
 
 ## Installation
 
@@ -72,7 +61,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Boxicons](https://boxicons.com/) for the icons used in the project.
 - [Google Fonts](https://fonts.google.com/) for the Poppins font.
 
----
-
-Enjoy using the Animated Login and Registration Page! If you have any questions or feedback, feel free to reach out.
-```
